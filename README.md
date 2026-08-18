@@ -4,7 +4,7 @@
 
 
 
-I'm a Computer Science student at Minnesota State University, Mankato, who initially fell in love with the creativity and artistry in front-end development, and now enjoys creating innovative tools and building solutions to existing systems. I'm currently looking for **Software Engineering Internship opportunities for Summer and Fall 2026.**
+I'm a Computer Science student at Minnesota State University, Mankato, who initially fell in love with the creativity and artistry in front-end development, and now enjoys creating innovative tools and building solutions to existing systems. I'm currently looking for **Computer Science internship/entry level opportunities for 2027.**
 
 
 
