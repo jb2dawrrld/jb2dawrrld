@@ -14,7 +14,7 @@ I'm a Computer Science student at Minnesota State University, Mankato, who initi
 -  Getting into backend development, learning Spring Boot for React(my most used framework)
 -  Created a journaling app called **jabajournal** with 10+ active users (would love feedback/suggestions on how to improve it!)
 -  Experienced with collaborative projects, client-facing work, and real deployment constraints
--  Currently learning AI/ML fundamentals (building my own GPT)
+-  Currently learning AI/ML fundamentals (building a local model)
 -  Love video games, movies, music, football.
 
 ---
