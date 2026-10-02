@@ -10,7 +10,7 @@ I'm a Computer Science student at Minnesota State University, Mankato, who initi
 
 ## About Me
 
--  Aiming on mastering DSA (100+ Leetcode problems done so far)
+-  Aiming on mastering DSA (200+ Leetcode problems done so far)
 -  Getting into backend development, learning Spring Boot for React(my most used framework)
 -  Created a journaling app called **jabajournal** with 10+ active users (would love feedback/suggestions on how to improve it!)
 -  Experienced with collaborative projects, client-facing work, and real deployment constraints
